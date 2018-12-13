@@ -27,7 +27,7 @@
                             <artifactItems>
                                 <artifact>
                                     <groupId>org.humandx.ontology</groupId>
-                                    <artifactId>data-active-only</artifactId>
+                                    <artifactId>data</artifactId>
                                     <version>${db.version}</version>
                                     <type>zip</type>
                                 </artifact>
