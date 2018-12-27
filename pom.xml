@@ -8,7 +8,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <db.version>1.0.0</db.version>
-        <isaac.verion>4.59-SNAPSHOT</isaac.verion>
+        <isaac.verion>4.63</isaac.verion>
     </properties>
     <build>
         <plugins>
